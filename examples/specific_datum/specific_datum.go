@@ -18,7 +18,8 @@ package main
 import (
 	"bytes"
 	"fmt"
-	"github.com/elodina/go-avro"
+
+	"github.com/mistsys/go-avro"
 )
 
 // Define the schema to read

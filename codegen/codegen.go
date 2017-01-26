@@ -18,10 +18,11 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/elodina/go-avro"
 	"io/ioutil"
 	"os"
 	"strings"
+
+	"github.com/mistsys/go-avro"
 )
 
 type schemas []string
